@@ -32,57 +32,55 @@
 <details>
 
 <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Languages and Tools 👇</h2></summary>
-<div style="background:#FFFFFF;pading:15px">
-    <img alt="android" width="25px" src="./icons/android-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="apache" width="25px" src="./icons/apache-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/apple-original.svg" style="margin:9px 4px 3px 5px;background:#ffffff" />
-    <img alt="bootstrap" width="25px" src="./icons/appwrite-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/arduino-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/bootstrap-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/chrome-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/codepen-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/composer-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/cplusplus-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/csharp-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/css3-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/dart-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/devicon-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/electron-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/facebook-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/figma-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/filezilla-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/firebase-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/firefox-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/flutter-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/git-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/github-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/google-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/googlecloud-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/gradle-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/html5-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/ionic-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/java-original-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/javascript-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/jquery-original-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/kotlin-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/laravel-plain-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/linkedin-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/markdown-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/microsoftsqlserver-plain-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/nodejs-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/npm-original-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/php-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/phpstorm-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/sass-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/slack-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/spss-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/ssh-original-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/tailwindcss-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/trello-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/twitter-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/visualstudio-plain.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/vscode-original.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/vuejs-original-wordmark.svg" style="margin:9px 4px 3px 5px;" />
-    <img alt="bootstrap" width="25px" src="./icons/yarn-original.svg" style="margin:9px 4px 3px 5px;" />
-</div>
+    <img alt="android" width="50px" src="./icons/android-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:15px" />
+    <img alt="apache" width="50px" src="./icons/apache-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="apple" width="50px" src="./icons/apple-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="appwrite" width="50px" src="./icons/appwrite-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="arduino" width="50px" src="./icons/arduino-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="bootstrap" width="50px" src="./icons/bootstrap-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="chrome" width="50px" src="./icons/chrome-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="codepen" width="50px" src="./icons/codepen-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="composer" width="50px" src="./icons/composer-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="cplusplus" width="50px" src="./icons/cplusplus-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="csharp" width="50px" src="./icons/csharp-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="css3" width="50px" src="./icons/css3-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="dart" width="50px" src="./icons/dart-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="devicon" width="50px" src="./icons/devicon-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="electron" width="50px" src="./icons/electron-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="facebook" width="50px" src="./icons/facebook-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="figma" width="50px" src="./icons/figma-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="filezilla" width="50px" src="./icons/filezilla-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="firebase" width="50px" src="./icons/firebase-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="firefox" width="50px" src="./icons/firefox-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="flutter" width="50px" src="./icons/flutter-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="git" width="50px" src="./icons/git-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="github" width="50px" src="./icons/github-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="google" width="50px" src="./icons/google-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="googlecloud" width="50px" src="./icons/googlecloud-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="gradle" width="50px" src="./icons/gradle-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="html5" width="50px" src="./icons/html5-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="ionic" width="50px" src="./icons/ionic-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="java" width="50px" src="./icons/java-original-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="javascript" width="50px" src="./icons/javascript-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="jquery" width="50px" src="./icons/jquery-original-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="kotlin" width="50px" src="./icons/kotlin-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="laravel" width="50px" src="./icons/laravel-plain-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="linkedin" width="50px" src="./icons/linkedin-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="markdown" width="50px" src="./icons/markdown-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="microsoftsqlserver" width="50px" src="./icons/microsoftsqlserver-plain-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="nodejs" width="50px" src="./icons/nodejs-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="npm" width="50px" src="./icons/npm-original-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="php" width="50px" src="./icons/php-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="phpstorm" width="50px" src="./icons/phpstorm-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="sass" width="50px" src="./icons/sass-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="slack" width="50px" src="./icons/slack-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="spss" width="50px" src="./icons/spss-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="ssh" width="50px" src="./icons/ssh-original-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="tailwindcss" width="50px" src="./icons/tailwindcss-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="trello" width="50px" src="./icons/trello-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="twitter" width="50px" src="./icons/twitter-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="visualstudio" width="50px" src="./icons/visualstudio-plain.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="vscode" width="50px" src="./icons/vscode-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="vuejs" width="50px" src="./icons/vuejs-original-wordmark.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
+    <img alt="yarn" width="50px" src="./icons/yarn-original.svg" style="margin:9px 4px 3px 5px;background-color: #ffffff;border-radius:3px" />
 </details>

@@ -1,9 +1,6 @@
-﻿# Hi there, I'm **Rasty**
+﻿# Hi there 🙋‍♂️, I'm **Rasty**
 
-### you are here to see cool things you can clone repositories and what ever you like but
-
-## (Don't Be Evil)
-
+## you are here to see cool things you can clone repositories and what ever you like but **(Don't Be Evil)**.
 
 ## **Find me** 🔎
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=f7f7f6)
@@ -120,6 +117,20 @@
 ![Steam](https://img.shields.io/badge/Steam-313131?style=for-the-badge&logo=Steam&logoColor=f7f7f6)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-313131?style=for-the-badge&logo=Ubisoft&logoColor=f7f7f6)
 
+## **My GitHub Stats 👇**
+<table>
+    <tr>
+        <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastyIT97&theme=radical&hide_border=false&layout=compact"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=RastyIT97&show_icons=true&theme=radical&count_private=true&include_all_commits=true"></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RastyIT97&theme=radical&hide_border=false&count_private=true"></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rastyit97&theme=darkhub&no-frame=true"></td>
+    </tr>
+</table>
+
 <details>
     <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Social Networks 👇</h2></summary>
     <ol>
@@ -128,19 +139,4 @@
         <li><a href="https://story.snapchat.com/@rastyit">Snapchat</a></li>
         <li><a href="https://www.youtube.com/channel/UCcjLtOdTinR5q1RzYYnKdJw">YouTube</a></li>
     </ol>
-</details>
-
-<details>
-    <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Github Profile Trophy 👇</h2></summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=rastyit97&theme=darkhub&no-frame=true">
-</details>
-
-<details>
-    <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">My GitHub Stats 👇</h2></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=RastyIT97&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RastyIT97&theme=radical&hide_border=false&count_private=true">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastyIT97&theme=radical&hide_border=false&layout=compact">
-
 </details>
